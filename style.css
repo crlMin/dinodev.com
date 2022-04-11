@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    margin: 0 auto;
+}
+
+.header > h2 {
+    margin: 0 auto;
+    text-align: center;
+}
