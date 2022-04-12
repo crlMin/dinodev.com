@@ -9,8 +9,8 @@ body {
     width: 50%;
 }
 
-.header > h2 {
-    margin: 0 auto;
+h2 {
+    margin: 44px auto;
     width: 50%;
     text-align: center;
     text-transform: uppercase;
@@ -22,8 +22,8 @@ body {
     width: 50%;
 }
 
-.container > p {
-    margin: 0 auto;
+p {
+    margin: 77px auto;
     width: 50%;
     text-align: center;
     font-size: 18px;
