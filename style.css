@@ -22,6 +22,5 @@ body {
 .container > p {
     margin: 0 auto;
     text-align: center;
-    text-transform: none;
     font-size: 18px;
 }
