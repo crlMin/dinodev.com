@@ -1,3 +1,6 @@
+## REWRITE DEFAULTS
+RewriteEngine On
+
 ## ALTERNATIVE ANTI-HOTLINKING
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^https://(www\.)?clrmin\.github\.io/dinodev\.com/.*$ [NC]
